@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestRunner
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 20.778 s <<< FAILURE! - in TestRunner
+Transactional Email Test(Comment Tests: Test Comment Endpoint)  Time elapsed: 11.216 s  <<< ERROR!
+java.net.UnknownHostException: http://proxy.jpmchase.net
+
+Transactional Email Test(Posts Tests: Test all the POST/PUT requests for creating Posts)  Time elapsed: 3.783 s  <<< ERROR!
+java.net.UnknownHostException: http://proxy.jpmchase.net
+
